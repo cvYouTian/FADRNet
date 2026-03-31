@@ -1,2 +1,2 @@
 # FADRNet
-FADRNet：Frequency-Aware Dynamic Resampling Network for IRSTD
+The code will be available once the paper is accepted.
